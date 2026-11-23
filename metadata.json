@@ -1,0 +1,6 @@
+{
+  "name": "CallAI",
+  "description": "Native Android messenger and voice call app with an interactive AI assistant you can summon mid-call, group chats, contacts, and Google Sign-In.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
